@@ -1,0 +1,35 @@
+#geral{
+    border-top: solid 5px #030341;
+    border-bottom: solid 5px #030341;
+}
+#partetitulo{
+    margin: auto;
+    text-align: center;
+}
+
+#tituloprincipal{
+    background-color: #a1aab6;
+    font-size: 40px;
+    color: #03035a;
+}
+
+#titulo2{
+    background-color: #a1aab6;
+    border-bottom: 2px solid #030341;
+    color: #030341;
+    padding: 5px;
+}
+
+#lista{
+    padding-left: 0;
+    list-style-position: inside;
+}
+
+a{
+    text-decoration: underline;
+}
+
+a:hover{
+    text-decoration: underline;
+    background-color: #a9a9a9;
+}
